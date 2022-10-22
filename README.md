@@ -73,4 +73,4 @@ print("Hasil Pembagian {1}+{0}=%d").format(a,b) %(a/b))
 ```
 Outputnya akan seperti ini 
 ![gambar5](foto/ss3.png)
-![gambar6](foto/ss4.png)# Praktikum2 Inayatus Sholekhawati
+![gambar6](foto/ss4.png)
