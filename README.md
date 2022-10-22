@@ -223,3 +223,4 @@ Outputnya akan seperti ini
 ![gambar5](ss/ss3.png)
 ![gambar6](ss/ss4.png) 
 #lab2py 
+#lab2py 
