@@ -222,3 +222,4 @@ print("Hasil Pembagian {1}+{0}=%d").format(a,b) %(a/b))
 Outputnya akan seperti ini 
 ![gambar5](ss/ss3.png)
 ![gambar6](ss/ss4.png) 
+#lab2py 
