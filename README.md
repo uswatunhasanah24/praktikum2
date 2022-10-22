@@ -12,7 +12,7 @@ Outputnya akan seperti ini
 print("Saya sedang belajar python")
 ```
 Outputnya akan seperti ini
-![gambar1](foto/ss1.png)
+![gambar1](foto/ss5.png)
 
 ## Latihan 2
 # Penggunaan Variabel Dasar
@@ -37,7 +37,7 @@ Dibawah ini adalah contoh penggunaan penjumlahan dari kedua variabel
 print("hasil penjumlahan a+b=",a+b)
 ```
 Maka Output nya akan seperti ini
-![gambar2](foto/ss2.png)
+![gambar2](foto/ss1.png.)
 
 ## Latihan 3
 # Menginput nilai Variabel dengan IDLE Python
@@ -53,7 +53,7 @@ print("Variabel a=",a)
 print("Variabel b=",b)
 ```
 Outputnya akan seperti ini
-![gambar3](foto/ss3.png)
+![gambar3](foto/ss2.png)
 
 # Penggabungan kedua variabel
 Penggunaan IDLE python untuk penggabungan nilai kedua variabel dengan cara String Format
@@ -72,5 +72,5 @@ print("Hasil Penjumlahan {1}+{0}=%d").format(a,b) %(a+b))
 print("Hasil Pembagian {1}+{0}=%d").format(a,b) %(a/b))
 ```
 Outputnya akan seperti ini 
-![gambar5](foto/ss3.png)
+![gambar5](foto/ss2.png)
 ![gambar6](foto/ss4.png)
